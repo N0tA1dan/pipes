@@ -6,5 +6,10 @@ Welcome to pipes a simple fast web crawler made in nodejs.
 Go into the pipes directory and paste the following command below
 
 ```
-cat requirements.txt | xargs npm install -g
+npm install puppeteer
+```
+Now you can run it
+
+```
+node main.js
 ```
